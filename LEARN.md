@@ -1,3 +1,6 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y2hhcm1pbmctY2FtZWwtMzIuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_oSPQufoOrvXqB730arW14xkO3gFOXfHeU13K0MaKhx
+
 
 {
   "type": "service_account",
