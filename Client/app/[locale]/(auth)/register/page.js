@@ -190,9 +190,8 @@ export default function Login() {
                   color="secondary"
                   className="mt-6"
                   onClick={handleSubmit}
-                  isDisabled={true}
                 >
-                  Geçici olarak devre dışı 
+                  Kayıt Ol
                 </Button>
 
                 <div className="relative flex items-center py-5">
